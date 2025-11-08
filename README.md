@@ -1,5 +1,5 @@
 # BlueArchive.cs
-Web-API for api-blue-archive.vercel.app an open source API providing character information about the Blue Archive
+Web-API for [api-blue-archive.vercel.app](https://api-blue-archive.vercel.app) an open source API providing character information about the Blue Archive
 
 ## Example
 ```cs
